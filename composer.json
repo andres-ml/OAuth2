@@ -33,7 +33,7 @@
         "source": "https://github.com/usemuffin/oauth2"
     },
     "require-dev": {
-        "cakephp/cakephp": "^3.0",
+        "cakephp/cakephp": "^3.6",
         "cakephp/cakephp-codesniffer": "^2.0",
         "league/oauth2-github": "^0.2",
         "phpunit/phpunit": "*"
